@@ -1,0 +1,14 @@
+def sum_arr(array):
+    if array == []:
+        return 0
+    else :
+        x = array[0]
+        result = x 
+        
+    return result
+
+
+array = [1,2,3,4]
+
+print(sum_arr(array))
+        
